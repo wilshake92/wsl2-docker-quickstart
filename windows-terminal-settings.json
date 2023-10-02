@@ -70,7 +70,7 @@
                 "hidden": false,
                 "name": "Ubuntu",
                 "source": "Windows.Terminal.Wsl",
-                "startingDirectory": "\\\\wsl$\\Ubuntu\\home\\argen\\"
+                "startingDirectory": "\\\\wsl$\\Ubuntu\\home\\Willenovo\\"
             },
             {
                 "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
